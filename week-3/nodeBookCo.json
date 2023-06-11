@@ -1,0 +1,30 @@
+{
+    "author_first_name": "Tim", 
+    "author_last_name" : "Ross",
+    "author_phone" : "555-555-5555",
+    "author_email" : "ross3211@gmail.com",
+    "books": [
+        {
+            "book_name":"Alice in WonderLand",
+            "book_price":"5.97",
+            "book_isbn" : "979-8749522310",
+            "publisher" :
+            {
+                "publisher_name":"NodeBookCo", 
+                "publisher_code": "14",
+                "publisher_address": "555 Broadway · WaterBrook & Multnomah 555 New Allegiance Drive, Suite 50"
+            }
+        },
+        {
+            "book_name":"The Secret Garden", 
+            "book_price": "8.99", 
+            "book_isbn": " 978-9916990322",
+            "publisher" :
+            {
+                "publisher_name":"NodeBookCo", 
+                "publisher_code": "14",
+                "publisher_address": "555 Broadway · WaterBrook & Multnomah 555 New Allegiance Drive, Suite 50"
+            }
+        }
+    ]
+}

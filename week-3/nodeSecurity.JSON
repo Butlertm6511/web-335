@@ -1,0 +1,20 @@
+{
+    "firstName": "John",
+    "lastName" : "Johnson",
+    "roles": [
+        {
+            "role1": "Database Administer"
+        },
+        {
+            "role2": "Data Analyst" 
+        }
+    ],
+    "permission":[
+        {
+            "permission": "Read"
+        },
+        {
+            "permission": "Write"
+        }
+    ]
+}

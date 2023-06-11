@@ -1,0 +1,37 @@
+
+{
+    "studentID": "900500321",
+    "firstName": "Tia",
+    "lastName" : "Butler",
+
+    "ENROLLMENTS": [
+                    {
+                        "term":"Fall 2022",
+                        "gpa" : "3.7",
+                        "startDate": "August 2022",
+                        "endDate" : "October 2023"
+                    },
+                    {
+                        "term":"Spring 2023",
+                        "gpa" : "3.3",
+                        "startDate": "March 2022",
+                        "endDate" : "May 2023"
+                    }
+                ],
+    "COURSES": [
+                    {
+                        "course": "Web 200",
+                        " Description": "Fundamental of web development. Course reviews entry level HTML and CSS",
+                        "Instructor": "Professor Krasso",
+                        "score": "92.6",
+                        "letterGrade": "A"
+                    },
+                    {
+                        "course": "Web 201",
+                        " Description": "Internet Systems Architecture. Course covers overall design, operating systems, command line interfaces",
+                        "Instructor": "Professor Kumar",
+                        "score": "90.6",
+                        "letterGrade": "A"
+                    }
+                ]
+}

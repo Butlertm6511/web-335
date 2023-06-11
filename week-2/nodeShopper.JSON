@@ -1,0 +1,47 @@
+{
+  
+    "_id": "900463823",
+    "fristName": "Tim",
+    "lastName": "Johnson",
+    "dateOfBirth": "20/11/1982",
+    "userName": "Johnson3211",
+
+
+    "INVOICE": [
+
+                    {
+                        "_id" : "900321743",
+                        "create:Date": "05/23/2023",
+                        "shipDate": "05/24/2023",
+                        "subtotal": "24.99"
+                    },
+                    {
+                        "_id" : "900321783",
+                        "create:Date": "05/22/2023",
+                        "shipDate": "05/24/2023",
+                        "subtotal": "27.99"
+                    }    
+                ],
+  
+    "LINEITEM": 
+                [
+                    {
+                        "_id": "900874635",
+                        "productName":"Lamp",
+                        "price": "27.34",
+                        "qty": "3"
+                    },
+                    {
+                        "_id": "900874645",
+                        "productName":"Rug",
+                        "price": "27.34",
+                        "qty": "3"
+                    },
+                    {
+                        "_id": "90974635",
+                        "productName":"Chair",
+                        "price": "27.34",
+                        "qty": "3"
+                    }
+                ]
+}
